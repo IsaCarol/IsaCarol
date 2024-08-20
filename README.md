@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada pela área de da
 # Conecte-se comigo 
 Vamos criar conexões!!!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabeli-carolina-066780210/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabeli-carolina-066780210/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@603627872531382290/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isacaroltr@gmail.com)
 
