@@ -1,5 +1,8 @@
 # 👋 Hello, eu sou a Isa
 
+![Data Analysis GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlveGFiNXZjeWFpeGV4a2w5bDAwY2RpZnB0a3BvZ3FoOXBpbmduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif)
+
+
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada pela área de dados. Me especializando em Análise de Dados e Business Intelligence.
 
 
@@ -38,5 +41,4 @@ Algumas das minhas principais habilidades e ferramentas
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Data Analysis GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlveGFiNXZjeWFpeGV4a2w5bDAwY2RpZnB0a3BvZ3FoOXBpbmduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif)
 
