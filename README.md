@@ -8,7 +8,7 @@ I'm a **Systems Analysis and Development** student and an aspiring **Data Analys
 ## 🔧 Technologies & Tools
 - **Languages:** Python, SQL, R
 - **Data Visualization:** Power BI, Tableau, Looker
-- **Databases:** MySQL, PostgreSQL, MySQL Server
+- **Databases:** MySQL, PostgreSQL, SQL Server, SQL Oracle
 - **Other:** Git, Excel, Jupyter Notebooks
 
 
