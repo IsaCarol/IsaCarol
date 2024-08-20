@@ -10,6 +10,15 @@ Vamos criar conexões!!!
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@603627872531382290/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isacaroltr@gmail.com)
 
+
+# Portfólio
+Bem-vindo ao meu portfólio de dados! Aqui estão alguns dos meus projetos em análise de dados e BI.
+
+- [Projeto 1: Análise de Vendas](./projeto1/README.md)
+
+Clique nos links acima para ver os detalhes de cada projeto.
+
+
 # Habilidades
 
 Algumas das minhas principais habilidades e ferramentas
