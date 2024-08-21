@@ -18,7 +18,7 @@ Vamos criar conexões!!!
 Bem-vindo ao meu portfólio de dados! Aqui estão alguns dos meus projetos em análise de dados e BI.
 
 - [Projeto 1: Análise de Vendas](https://github.com/IsaCarol/projeto1)
-- [Projeto 2.0: Análise de Vendas](https://github.com/IsaCarol/projeto2)
+- [Projeto 2: Análise de Vendas 2.0](https://github.com/IsaCarol/projeto2)
 
 Clique nos links acima para ver os detalhes de cada projeto.
 
