@@ -13,6 +13,10 @@ Vamos criar conexões!!!
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@603627872531382290/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isacaroltr@gmail.com)
 
+# Meu Currículo 
+Aqui está o link para meu currículo
+[Currículo](Currículo.pdf)
+
 
 # Portfólio
 Bem-vindo ao meu portfólio de dados! Aqui estão alguns dos meus projetos em análise de dados e BI.
