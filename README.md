@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Isabeli Carolina 👋</h1>
 
 <p align="center">
-  <em>Data Analyst 📊 </em>
+  <em>Analista de Dados · Do dado bruto ao insight que importa</em>
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@ Acredito que um bom insight não é só correto, precisa ser compreensível.
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nekt-1A9E7A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
@@ -35,8 +36,7 @@ Acredito que um bom insight não é só correto, precisa ser compreensível.
 
 > Esta seção está sempre crescendo — aprendizado contínuo faz parte da rotina.
 
-- 📌 Em breve: adicione seus certificados aqui com links para as credenciais
-- 📌 Ex: `[Nome do Certificado](link) — Plataforma, Ano`
+- 🏅 [**Microsoft Power BI Data Analyst — PL-300** — Microsoft Learn](https://learn.microsoft.com/pt-br/users/isabelicarolinasantos-4168/credentials/4406efa8b2c61760)
 
 ---
 
