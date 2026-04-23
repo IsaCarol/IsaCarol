@@ -29,6 +29,7 @@ Acredito que um bom insight não é só correto, precisa ser compreensível.
   <img src="https://img.shields.io/badge/Nekt-1A9E7A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-24adf3?style=for-the-badge&logo=vscode&logoColor=white" />
 
 </p>
 
